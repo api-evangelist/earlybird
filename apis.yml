@@ -1,0 +1,81 @@
+aid: earlybird
+name: Earlybird Venture Capital
+description: >-
+  Earlybird Venture Capital is a pan-European venture capital firm founded in
+  1997 and headquartered in Berlin, with additional offices in Munich, London,
+  and Milan. Earlybird identifies and backs exceptional early-stage technology
+  companies across Europe, investing from pre-seed and seed through Series A with
+  initial tickets up to roughly EUR 12 million, and following on through growth.
+  The firm organizes around specialized fund streams: Digital West (Western
+  Europe), Digital East (emerging Europe and Turkey), Health, Earlybird-X
+  (pre-seed and university spinouts), and a pan-Earlybird Growth Opportunities
+  fund. Its thesis spans Applications (B2B and B2C), Software Infrastructure, and
+  DeepTech, with active investment in fintech, generative AI, deep tech, and
+  frontier areas such as nuclear fusion and space. With more than EUR 2 billion
+  (self-reported ~EUR 2.5B) under management, Earlybird is one of Europe's most
+  established and active venture firms, with a track record including multiple
+  IPOs and dozens of trade sales, and notable investments such as UiPath, N26,
+  Aiven, Isar Aerospace, and Peak Games.
+image: https://earlybird.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+tags:
+  - Venture Capital
+  - Seed
+  - Series A
+  - Deep Tech
+  - Fintech
+  - Artificial Intelligence
+  - Software Infrastructure
+  - Europe
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://earlybird.com/
+  - type: Portfolio
+    url: https://earlybird.com/companies
+  - type: Portfolio
+    url: portfolio/earlybird-portfolio.yml
+  - type: Team
+    url: https://earlybird.com/members
+  - type: Team
+    url: team/earlybird-team.yml
+  - type: InvestmentThesis
+    url: https://earlybird.com/approach
+  - type: Blog
+    url: https://earlybird.com/perspectives
+  - type: Jobs
+    url: https://jobs.earlybird.com/jobs
+  - type: Contact
+    url: https://earlybird.com/contact-us
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/earlybird-venture-capital
+  - type: Twitter
+    url: https://twitter.com/EarlybirdVC
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/earlybird-venture-capital
+  - type: Features
+    data:
+      - 'Stage: Pre-seed, Seed, Series A (with follow-on growth)'
+      - 'Typical check: initial tickets up to ~EUR 12M'
+      - 'Sectors: Applications (B2B/B2C), Software Infrastructure, DeepTech, fintech, AI, fusion, space'
+      - 'Geography: Pan-European (Western Europe, Emerging Europe, Turkey)'
+      - 'AUM: >EUR 2B (self-reported ~EUR 2.5B)'
+      - 'Founded: 1997'
+      - 'HQ: Berlin, Germany (offices in Munich, London, Milan)'
+      - 'Funds: Digital West, Digital East, Health, Earlybird-X, Growth Opportunities'
+    sources:
+      - https://earlybird.com/
+      - https://earlybird.com/about-us
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Earlybird Venture Capital
+    url: https://earlybird.com/
