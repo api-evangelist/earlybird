@@ -16,6 +16,17 @@ description: >-
   established and active venture firms, with a track record including multiple
   IPOs and dozens of trade sales, and notable investments such as UiPath, N26,
   Aiven, Isar Aerospace, and Peak Games.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://earlybird.com/favicon.ico
 x-type: venture-capital
 x-category: Venture Capital

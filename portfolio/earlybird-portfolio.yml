@@ -3,9 +3,9 @@ method: searched
 source: https://earlybird.com/companies
 summary:
   portfolio_total: 118
-  in_network: 10
-  api_providers: 8
-  missing: 108
+  in_network: 118
+  api_providers: 24
+  missing: 0
   stubs_created: 0
 companies:
 - name: Deepcode
@@ -20,23 +20,26 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/6-wunderkinder-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 6-wunderkinder
+  slug: 6-wunderkinder
+  matched_by: name-slug
 - name: Abaxx
   status: unknown
   detail_url: https://earlybird.com/companies/abaxx-technology-ag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: abaxx
+  slug: abaxx
+  matched_by: name-slug
 - name: Aiperia
   status: unknown
   detail_url: https://earlybird.com/companies/aiperia
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aiperia
+  slug: aiperia
+  matched_by: name-slug
 - name: Aiven
   sector: infrastructure
   status: active
@@ -50,51 +53,58 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/aleph-alpha2
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aleph-alpha2
+  slug: aleph-alpha2
+  matched_by: name-slug
 - name: Arago
   status: unknown
   detail_url: https://earlybird.com/companies/arago
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arago
+  slug: arago
+  matched_by: name-slug
 - name: Aris Machina
   status: unknown
   detail_url: https://earlybird.com/companies/aris-machina
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aris-machina
+  slug: aris-machina
+  matched_by: name-slug
 - name: Avrea
   status: unknown
   detail_url: https://earlybird.com/companies/avrea
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: avrea
+  slug: avrea
+  matched_by: name-slug
 - name: B2x
   status: unknown
   detail_url: https://earlybird.com/companies/b2x-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: b2x
+  slug: b2x
+  matched_by: name-slug
 - name: Bayshore
   status: unknown
   detail_url: https://earlybird.com/companies/bayshore
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bayshore
+  slug: bayshore
+  matched_by: name-slug
 - name: Bigchaindb
   status: unknown
   detail_url: https://earlybird.com/companies/bigchaindb
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: bigchaindb
+  in_network: true
+  is_api_provider: true
+  slug: bigchaindb
+  matched_by: name-slug
 - name: Black Forest Labs
   sector: ai
   status: active
@@ -108,221 +118,252 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/brandback
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: brandback
+  slug: brandback
+  matched_by: name-slug
 - name: Bridgeco
   status: unknown
   detail_url: https://earlybird.com/companies/bridgeco
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bridgeco
+  slug: bridgeco
+  matched_by: name-slug
 - name: Briefcase
   status: unknown
   detail_url: https://earlybird.com/companies/briefcase
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: briefcase
+  slug: briefcase
+  matched_by: name-slug
 - name: Carpooling
   status: unknown
   detail_url: https://earlybird.com/companies/carpooling-com
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: carpooling
+  slug: carpooling
+  matched_by: name-slug
 - name: Cartodb
   sector: developer-tools
   status: active
   detail_url: https://earlybird.com/companies/cartodb-inc
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cartodb
+  slug: cartodb
+  matched_by: name-slug
 - name: Ceartas
   status: unknown
   detail_url: https://earlybird.com/companies/ceartas-dmca-ltd
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ceartas
+  slug: ceartas
+  matched_by: name-slug
 - name: Celus
   status: unknown
   detail_url: https://earlybird.com/companies/celus
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: celus
+  slug: celus
+  matched_by: name-slug
 - name: Certivity
   status: unknown
   detail_url: https://earlybird.com/companies/certivity
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: certivity
+  slug: certivity
+  matched_by: name-slug
 - name: Colibri
   status: unknown
   detail_url: https://earlybird.com/companies/colibri
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: colibri
+  slug: colibri
+  matched_by: name-slug
 - name: Conjectag
   status: unknown
   detail_url: https://earlybird.com/companies/conjectag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: conjectag
+  slug: conjectag
+  matched_by: name-slug
 - name: Conxai
   status: unknown
   detail_url: https://earlybird.com/companies/conxai
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: conxai
+  in_network: true
+  is_api_provider: true
+  slug: conxai
+  matched_by: name-slug
 - name: Crossenagage
   status: unknown
   detail_url: https://earlybird.com/companies/crossenagage
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: crossenagage
+  slug: crossenagage
+  matched_by: name-slug
 - name: Crosslend
   status: unknown
   detail_url: https://earlybird.com/companies/crosslend-gmbh-(the-thing-gmbh)
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: crosslend
+  slug: crosslend
+  matched_by: name-slug
 - name: Ctrl
   status: unknown
   detail_url: https://earlybird.com/companies/ctrl
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ctrl
+  slug: ctrl
+  matched_by: name-slug
 - name: Dcs Travel
   status: unknown
   detail_url: https://earlybird.com/companies/dcs-travel-technologies
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dcs-travel
+  slug: dcs-travel
+  matched_by: name-slug
 - name: Go Deed
   status: unknown
   detail_url: https://earlybird.com/companies/go-deed-inc
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: go-deed
+  slug: go-deed
+  matched_by: name-slug
 - name: Dooyoo De
   status: unknown
   detail_url: https://earlybird.com/companies/dooyoo-de-ag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dooyoo-de
+  slug: dooyoo-de
+  matched_by: name-slug
 - name: Edyoucated
   status: unknown
   detail_url: https://earlybird.com/companies/edyoucated
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: edyoucated
+  slug: edyoucated
+  matched_by: name-slug
 - name: Element 5
   status: unknown
   detail_url: https://earlybird.com/companies/element-5-ag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: element-5
+  slug: element-5
+  matched_by: name-slug
 - name: Eleqtron
   status: unknown
   detail_url: https://earlybird.com/companies/eleqtron
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eleqtron
+  slug: eleqtron
+  matched_by: name-slug
 - name: Ethonai
   status: unknown
   detail_url: https://earlybird.com/companies/ethonai
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ethonai
+  slug: ethonai
+  matched_by: name-slug
 - name: Eyva
   status: unknown
   detail_url: https://earlybird.com/companies/eyva
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: eyva
+  slug: eyva
+  matched_by: name-slug
 - name: Finmid
   status: unknown
   detail_url: https://earlybird.com/companies/finmid
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: finmid
+  slug: finmid
+  matched_by: name-slug
 - name: Fintechos
   status: unknown
   detail_url: https://earlybird.com/companies/fintechos
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fintechos
+  slug: fintechos
+  matched_by: name-slug
 - name: Fitetv
   status: unknown
   detail_url: https://earlybird.com/companies/fitetv
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fitetv
+  slug: fitetv
+  matched_by: name-slug
 - name: Flanks
   status: unknown
   detail_url: https://earlybird.com/companies/flanks
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flanks
+  slug: flanks
+  matched_by: name-slug
 - name: Freeverse
   status: unknown
   detail_url: https://earlybird.com/companies/freeverse
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: freeverse
+  slug: freeverse
+  matched_by: name-slug
 - name: Getsafe
   sector: insurtech
   status: active
   detail_url: https://earlybird.com/companies/getsafe-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: getsafe
+  slug: getsafe
+  matched_by: name-slug
 - name: Goodlegal
   status: unknown
   detail_url: https://earlybird.com/companies/goodlegal
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: goodlegal
+  slug: goodlegal
+  matched_by: name-slug
 - name: Greenlyte
   status: unknown
   detail_url: https://earlybird.com/companies/greenlyte
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: greenlyte
+  slug: greenlyte
+  matched_by: name-slug
 - name: Hakuna
   status: unknown
   detail_url: https://earlybird.com/companies/hakuna
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: hakuna
+  in_network: true
+  is_api_provider: true
+  slug: hakuna
+  matched_by: name-slug
 - name: Hive
   status: unknown
   detail_url: https://earlybird.com/companies/hive-technologies
@@ -335,319 +376,363 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/hive-mq
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hive-mq
+  slug: hive-mq
+  matched_by: name-slug
 - name: Identify Software
   status: unknown
   detail_url: https://earlybird.com/companies/identify-software-ltd
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: identify-software
+  slug: identify-software
+  matched_by: name-slug
 - name: Inkitt
   status: unknown
   detail_url: https://earlybird.com/companies/inkitt-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: inkitt
+  slug: inkitt
+  matched_by: name-slug
 - name: Interhyp
   sector: fintech
   status: acquired
   detail_url: https://earlybird.com/companies/interhyp-ag
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: interhyp
+  in_network: true
+  is_api_provider: true
+  slug: interhyp
+  matched_by: name-slug
 - name: Involve Space
   status: unknown
   detail_url: https://earlybird.com/companies/involve-space
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: involve-space
+  slug: involve-space
+  matched_by: name-slug
 - name: Isar Aerospace
   sector: deep-tech
   status: active
   detail_url: https://earlybird.com/companies/isar-aerospace-technologies-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: isar-aerospace
+  slug: isar-aerospace
+  matched_by: name-slug
 - name: Junto Education
   status: unknown
   detail_url: https://earlybird.com/companies/junto-education-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: junto-education
+  slug: junto-education
+  matched_by: name-slug
 - name: Keel
   status: unknown
   detail_url: https://earlybird.com/companies/keel
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: keel
+  slug: keel
+  matched_by: name-slug
 - name: Kiwilogic
   status: unknown
   detail_url: https://earlybird.com/companies/kiwilogic-com-ag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kiwilogic
+  slug: kiwilogic
+  matched_by: name-slug
 - name: Koppla
   status: unknown
   detail_url: https://earlybird.com/companies/koppla-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: koppla
+  slug: koppla
+  matched_by: name-slug
 - name: Energy Robotics
   status: unknown
   detail_url: https://earlybird.com/companies/energy-robotics-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: energy-robotics
+  slug: energy-robotics
+  matched_by: name-slug
 - name: Lexoo
   status: unknown
   detail_url: https://earlybird.com/companies/lexoo-ltd
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lexoo
+  slug: lexoo
+  matched_by: name-slug
 - name: Liquid M
   status: unknown
   detail_url: https://earlybird.com/companies/liquid-m-inc
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: liquid-m
+  in_network: true
+  is_api_provider: true
+  slug: liquid-m
+  matched_by: name-slug
 - name: M 0
   status: unknown
   detail_url: https://earlybird.com/companies/m-0
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: m-0
+  in_network: true
+  is_api_provider: true
+  slug: m-0
+  matched_by: name-slug
 - name: Marvel Fusion
   sector: deep-tech
   status: active
   detail_url: https://earlybird.com/companies/marvel-fusion-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: marvel-fusion
+  slug: marvel-fusion
+  matched_by: name-slug
 - name: Matchory
   status: unknown
   detail_url: https://earlybird.com/companies/matchory
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: matchory
+  slug: matchory
+  matched_by: name-slug
 - name: Minit
   status: unknown
   detail_url: https://earlybird.com/companies/minit
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: minit
+  slug: minit
+  matched_by: name-slug
 - name: Mona Ai
   status: unknown
   detail_url: https://earlybird.com/companies/mona-ai
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mona-ai
+  slug: mona-ai
+  matched_by: name-slug
 - name: Myriad
   status: unknown
   detail_url: https://earlybird.com/companies/myriad-ag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: myriad
+  slug: myriad
+  matched_by: name-slug
 - name: N26
   sector: fintech
   status: active
   detail_url: https://earlybird.com/companies/n26
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: n26
+  slug: n26
+  matched_by: name-slug
 - name: Ncodin
   status: unknown
   detail_url: https://earlybird.com/companies/ncodin
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ncodin
+  slug: ncodin
+  matched_by: name-slug
 - name: Neotaste
   status: unknown
   detail_url: https://earlybird.com/companies/neotaste
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: neotaste
+  slug: neotaste
+  matched_by: name-slug
 - name: Neuracore
   status: unknown
   detail_url: https://earlybird.com/companies/neuracore
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: neuracore
+  slug: neuracore
+  matched_by: name-slug
 - name: Nfon
   sector: telecom
   status: ipo
   detail_url: https://earlybird.com/companies/nfon-ag
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: nfon
+  in_network: true
+  is_api_provider: true
+  slug: nfon
+  matched_by: name-slug
 - name: Nortech
   status: unknown
   detail_url: https://earlybird.com/companies/nortech
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: nortech
+  in_network: true
+  is_api_provider: true
+  slug: nortech
+  matched_by: name-slug
 - name: Nosh Bio
   status: unknown
   detail_url: https://earlybird.com/companies/nosh-bio
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nosh-bio
+  slug: nosh-bio
+  matched_by: name-slug
 - name: Obligate
   status: unknown
   detail_url: https://earlybird.com/companies/obligate-(ex-fqx)
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: obligate
+  slug: obligate
+  matched_by: name-slug
 - name: Onefootball
   sector: consumer
   status: active
   detail_url: https://earlybird.com/companies/onefootball
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: onefootball
+  slug: onefootball
+  matched_by: name-slug
 - name: Oneshield
   status: unknown
   detail_url: https://earlybird.com/companies/oneshield
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oneshield
+  slug: oneshield
+  matched_by: name-slug
 - name: Ottonova
   sector: insurtech
   status: active
   detail_url: https://earlybird.com/companies/ottonova
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ottonova
+  slug: ottonova
+  matched_by: name-slug
 - name: Parima
   status: unknown
   detail_url: https://earlybird.com/companies/parima
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: parima
+  slug: parima
+  matched_by: name-slug
 - name: Peak Games
   sector: gaming
   status: acquired
   detail_url: https://earlybird.com/companies/peak-games
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: peak-games
+  slug: peak-games
+  matched_by: name-slug
 - name: Peopleix
   status: unknown
   detail_url: https://earlybird.com/companies/peopleix
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: peopleix
+  slug: peopleix
+  matched_by: name-slug
 - name: Photoneo
   status: unknown
   detail_url: https://earlybird.com/companies/photoneo
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: photoneo
+  slug: photoneo
+  matched_by: name-slug
 - name: Pillar
   status: unknown
   detail_url: https://earlybird.com/companies/pillar
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pillar
+  slug: pillar
+  matched_by: name-slug
 - name: Pointee
   status: unknown
   detail_url: https://earlybird.com/companies/pointee
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pointee
+  slug: pointee
+  matched_by: name-slug
 - name: Porters
   status: unknown
   detail_url: https://earlybird.com/companies/porters
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: porters
+  slug: porters
+  matched_by: name-slug
 - name: Quantumdiamonds
   status: unknown
   detail_url: https://earlybird.com/companies/quantumdiamonds
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: quantumdiamonds
+  slug: quantumdiamonds
+  matched_by: name-slug
 - name: Rapidminer
   sector: ai
   status: acquired
   detail_url: https://earlybird.com/companies/rapidminer
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rapidminer
+  slug: rapidminer
+  matched_by: name-slug
 - name: Recursive
   status: unknown
   detail_url: https://earlybird.com/companies/recursive
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: recursive
+  slug: recursive
+  matched_by: name-slug
 - name: Remberg
   status: unknown
   detail_url: https://earlybird.com/companies/remberg-gmbh
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: remberg
+  in_network: true
+  is_api_provider: true
+  slug: remberg
+  matched_by: name-slug
 - name: Riiico
   status: unknown
   detail_url: https://earlybird.com/companies/riiico
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: riiico
+  slug: riiico
+  matched_by: name-slug
 - name: Rivia
   status: unknown
   detail_url: https://earlybird.com/companies/rivia
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rivia
+  slug: rivia
+  matched_by: name-slug
 - name: Scoreloop
   status: unknown
   detail_url: https://earlybird.com/companies/scoreloop-ag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: scoreloop
+  slug: scoreloop
+  matched_by: name-slug
 - name: Sennder
   sector: logistics
   status: active
@@ -661,37 +746,42 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/service-partner-one-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: service-partner-one
+  slug: service-partner-one
+  matched_by: name-slug
 - name: Sessions
   status: unknown
   detail_url: https://earlybird.com/companies/sessions
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sessions
+  slug: sessions
+  matched_by: name-slug
 - name: Shapeshift
   status: unknown
   detail_url: https://earlybird.com/companies/shapeshift
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: shapeshift
+  in_network: true
+  is_api_provider: true
+  slug: shapeshift
+  matched_by: name-slug
 - name: Sikoia
   status: unknown
   detail_url: https://earlybird.com/companies/sikoia
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: sikoia
+  in_network: true
+  is_api_provider: true
+  slug: sikoia
+  matched_by: name-slug
 - name: Simr S
   status: unknown
   detail_url: https://earlybird.com/companies/simr-s-(formerly-ubercloud)
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: simr-s
+  slug: simr-s
+  matched_by: name-slug
 - name: Simscale
   status: unknown
   detail_url: https://earlybird.com/companies/simscale
@@ -704,24 +794,27 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/sintra
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sintra
+  slug: sintra
+  matched_by: name-slug
 - name: Slng
   status: unknown
   detail_url: https://earlybird.com/companies/slng
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: slng
+  in_network: true
+  is_api_provider: true
+  slug: slng
+  matched_by: name-slug
 - name: Smava
   sector: fintech
   status: active
   detail_url: https://earlybird.com/companies/smava-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: smava
+  slug: smava
+  matched_by: name-slug
 - name: Snyk
   sector: developer-tools
   status: active
@@ -736,74 +829,84 @@ companies:
   status: acquired
   detail_url: https://earlybird.com/companies/socialbakers
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: socialbakers
+  in_network: true
+  is_api_provider: true
+  slug: socialbakers
+  matched_by: name-slug
 - name: Spaitial Ai
   status: unknown
   detail_url: https://earlybird.com/companies/spaitial-ai
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: spaitial-ai
+  in_network: true
+  is_api_provider: true
+  slug: spaitial-ai
+  matched_by: name-slug
 - name: Tastyurban
   status: unknown
   detail_url: https://earlybird.com/companies/tastyurban
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tastyurban
+  slug: tastyurban
+  matched_by: name-slug
 - name: Terralayr
   status: unknown
   detail_url: https://earlybird.com/companies/terralayr-ag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: terralayr
+  slug: terralayr
+  matched_by: name-slug
 - name: The Interaction Company Of California
   status: unknown
   detail_url: https://earlybird.com/companies/the-interaction-company-of-california
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: the-interaction-company-of-california
+  in_network: true
+  is_api_provider: true
+  slug: the-interaction-company-of-california
+  matched_by: name-slug
 - name: Thingsthinking
   status: unknown
   detail_url: https://earlybird.com/companies/thingsthinking
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: thingsthinking
+  slug: thingsthinking
+  matched_by: name-slug
 - name: Tilt
   status: unknown
   detail_url: https://earlybird.com/companies/tilt
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tilt
+  slug: tilt
+  matched_by: name-slug
 - name: Tipp24
   sector: consumer
   status: ipo
   detail_url: https://earlybird.com/companies/tipp24-ag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tipp24
+  slug: tipp24
+  matched_by: name-slug
 - name: Topk
   status: unknown
   detail_url: https://earlybird.com/companies/topk
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: topk
+  slug: topk
+  matched_by: name-slug
 - name: Ubitricity
   sector: energy
   status: acquired
   detail_url: https://earlybird.com/companies/ubitricity-gmbh
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ubitricity
+  slug: ubitricity
+  matched_by: name-slug
 - name: Uipath
   sector: automation
   status: ipo
@@ -826,37 +929,42 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/urbia-com
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: urbia
+  slug: urbia
+  matched_by: name-slug
 - name: Videdressing
   status: unknown
   detail_url: https://earlybird.com/companies/videdressing
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: videdressing
+  slug: videdressing
+  matched_by: name-slug
 - name: Wallet Studio
   status: unknown
   detail_url: https://earlybird.com/companies/wallet-studio
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: wallet-studio
+  slug: wallet-studio
+  matched_by: name-slug
 - name: Workist
   status: unknown
   detail_url: https://earlybird.com/companies/workist-gmbh
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: workist
+  in_network: true
+  is_api_provider: true
+  slug: workist
+  matched_by: name-slug
 - name: Xayn
   status: unknown
   detail_url: https://earlybird.com/companies/xayn-ag
   source: https://earlybird.com/companies
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: xayn
+  slug: xayn
+  matched_by: name-slug
 - name: usercentrics
   status: unknown
   detail_url: https://usercentrics.com/consent-management-platform-powered-by-usercentrics/?utm_source=banner_uc&utm_medium=referral&utm_content=v3
