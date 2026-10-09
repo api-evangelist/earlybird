@@ -831,7 +831,7 @@ companies:
   source: https://earlybird.com/companies
   in_network: true
   is_api_provider: true
-  slug: socialbakers
+  slug: emplifi-io
   matched_by: name-slug
 - name: Spaitial Ai
   status: unknown
