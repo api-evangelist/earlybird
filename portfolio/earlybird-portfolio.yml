@@ -3,9 +3,9 @@ method: searched
 source: https://earlybird.com/companies
 summary:
   portfolio_total: 118
-  in_network: 118
-  api_providers: 24
-  missing: 0
+  in_network: 113
+  api_providers: 23
+  missing: 5
   stubs_created: 0
 companies:
 - name: Deepcode
@@ -151,10 +151,9 @@ companies:
   status: active
   detail_url: https://earlybird.com/companies/cartodb-inc
   source: https://earlybird.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: cartodb
-  matched_by: name-slug
+  suggested_slug: cartodb
 - name: Ceartas
   status: unknown
   detail_url: https://earlybird.com/companies/ceartas-dmca-ltd
@@ -208,7 +207,7 @@ companies:
   detail_url: https://earlybird.com/companies/crossenagage
   source: https://earlybird.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: crossenagage
   matched_by: name-slug
 - name: Crosslend
@@ -296,7 +295,7 @@ companies:
   detail_url: https://earlybird.com/companies/finmid
   source: https://earlybird.com/companies
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: finmid
   matched_by: name-slug
 - name: Fintechos
@@ -376,10 +375,9 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/hive-mq
   source: https://earlybird.com/companies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: hive-mq
-  matched_by: name-slug
+  suggested_slug: hive-mq
 - name: Identify Software
   status: unknown
   detail_url: https://earlybird.com/companies/identify-software-ltd
@@ -482,10 +480,9 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/m-0
   source: https://earlybird.com/companies
-  in_network: true
-  is_api_provider: true
-  slug: m-0
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: m-0
 - name: Marvel Fusion
   sector: deep-tech
   status: active
@@ -829,18 +826,16 @@ companies:
   status: acquired
   detail_url: https://earlybird.com/companies/socialbakers
   source: https://earlybird.com/companies
-  in_network: true
-  is_api_provider: true
-  slug: emplifi-io
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: socialbakers
 - name: Spaitial Ai
   status: unknown
   detail_url: https://earlybird.com/companies/spaitial-ai
   source: https://earlybird.com/companies
-  in_network: true
-  is_api_provider: true
-  slug: spaitial-ai
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spaitial-ai
 - name: Tastyurban
   status: unknown
   detail_url: https://earlybird.com/companies/tastyurban

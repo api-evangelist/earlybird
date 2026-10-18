@@ -1,4 +1,39 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: earlybird
-leads: []
+leads:
+- name: Cartodb
+  url: ''
+  suggested_slug: cartodb
+  sector: developer-tools
+  source_vc: earlybird
+  source: https://earlybird.com/companies
+  stub_created: false
+- name: Hive Mq
+  url: ''
+  suggested_slug: hive-mq
+  sector: ''
+  source_vc: earlybird
+  source: https://earlybird.com/companies
+  stub_created: false
+- name: M 0
+  url: ''
+  suggested_slug: m-0
+  sector: ''
+  source_vc: earlybird
+  source: https://earlybird.com/companies
+  stub_created: false
+- name: Socialbakers
+  url: ''
+  suggested_slug: socialbakers
+  sector: marketing
+  source_vc: earlybird
+  source: https://earlybird.com/companies
+  stub_created: false
+- name: Spaitial Ai
+  url: ''
+  suggested_slug: spaitial-ai
+  sector: ''
+  source_vc: earlybird
+  source: https://earlybird.com/companies
+  stub_created: false
