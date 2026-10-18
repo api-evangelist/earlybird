@@ -2,9 +2,9 @@ generated: '2026-07-17'
 method: searched
 source: https://earlybird.com/companies
 summary:
-  portfolio_total: 118
-  in_network: 112
-  api_providers: 23
+  portfolio_total: 117
+  in_network: 111
+  api_providers: 24
   missing: 6
   stubs_created: 0
 companies:
@@ -12,10 +12,12 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/deepcode
   source: https://earlybird.com/companies
-  slug: deepcode
+  slug: snyk
   in_network: true
-  is_api_provider: false
-  matched_by: name-slug
+  is_api_provider: true
+  matched_by: domain
+  url: https://snyk.io/platform/deepcode-ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: 6 Wunderkinder
   status: unknown
   detail_url: https://earlybird.com/companies/6-wunderkinder-gmbh
@@ -31,7 +33,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: abaxx
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.abaxx.tech
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Aiperia
   status: unknown
   detail_url: https://earlybird.com/companies/aiperia
@@ -129,7 +133,9 @@ companies:
   slug: black-forest-labs
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://bfl.ai/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Brandback
   status: unknown
   detail_url: https://earlybird.com/companies/brandback
@@ -181,7 +187,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: ceartas
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.ceartas.io/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Celus
   status: unknown
   detail_url: https://earlybird.com/companies/celus
@@ -298,6 +306,7 @@ companies:
   is_api_provider: false
   slug: element-5
   matched_by: name-slug
+  x-url-candidate: https://element5.co
 - name: Eleqtron
   status: unknown
   detail_url: https://earlybird.com/companies/eleqtron
@@ -374,8 +383,8 @@ companies:
   is_api_provider: false
   url: https://www.freeverse.io/
   x-url-source: earlybird company pages (sitemap)
-  x-name-collision: freeverse
   suggested_slug: freeverse-io
+  x-name-collision: freeverse
 - name: Getsafe
   sector: insurtech
   status: active
@@ -384,7 +393,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: getsafe
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.hellogetsafe.com/en-de
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Goodlegal
   status: unknown
   detail_url: https://earlybird.com/companies/goodlegal
@@ -411,8 +422,8 @@ companies:
   is_api_provider: false
   url: https://www.hellohakuna.com
   x-url-source: earlybird company pages (sitemap)
-  x-name-collision: hakuna
   suggested_slug: hellohakuna-com
+  x-name-collision: hakuna
 - name: Hive
   status: unknown
   detail_url: https://earlybird.com/companies/hive-technologies
@@ -420,7 +431,9 @@ companies:
   slug: hive
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://hive.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Hive Mq
   status: unknown
   detail_url: https://earlybird.com/companies/hive-mq
@@ -439,6 +452,7 @@ companies:
   is_api_provider: false
   slug: identify-software
   matched_by: name-slug
+  x-url-candidate: https://www.identify.bio/
 - name: Inkitt
   status: unknown
   detail_url: https://earlybird.com/companies/inkitt-gmbh
@@ -446,7 +460,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: inkitt
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.inkitt.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Interhyp
   sector: fintech
   status: acquired
@@ -474,7 +490,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: isar-aerospace
-  matched_by: name-slug
+  matched_by: domain
+  url: https://isaraerospace.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Junto Education
   status: unknown
   detail_url: https://earlybird.com/companies/junto-education-gmbh
@@ -509,6 +527,7 @@ companies:
   is_api_provider: false
   slug: koppla
   matched_by: name-slug
+  x-url-candidate: https://koppla.ai/sv/
 - name: Energy Robotics
   status: unknown
   detail_url: https://earlybird.com/companies/energy-robotics-gmbh
@@ -516,7 +535,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: energy-robotics
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.korial.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Lexoo
   status: unknown
   detail_url: https://earlybird.com/companies/lexoo-ltd
@@ -548,7 +569,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: marvel-fusion
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.marvelfusion.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Matchory
   status: unknown
   detail_url: https://earlybird.com/companies/matchory
@@ -585,6 +608,7 @@ companies:
   is_api_provider: false
   slug: myriad
   matched_by: name-slug
+  x-url-candidate: https://myriad.com
 - name: N26
   sector: fintech
   status: active
@@ -635,6 +659,7 @@ companies:
   is_api_provider: true
   slug: nfon
   matched_by: name-slug
+  x-url-candidate: https://www.nfon.com/de/
 - name: Nortech
   status: unknown
   detail_url: https://earlybird.com/companies/nortech
@@ -662,7 +687,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: obligate
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.obligate.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Onefootball
   sector: consumer
   status: active
@@ -773,16 +800,20 @@ companies:
   in_network: true
   is_api_provider: false
   slug: quantumdiamonds
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.qd-st.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Rapidminer
   sector: ai
   status: acquired
   detail_url: https://earlybird.com/companies/rapidminer
   source: https://earlybird.com/companies
   in_network: true
-  is_api_provider: false
-  slug: rapidminer
-  matched_by: name-slug
+  is_api_provider: true
+  slug: siemens
+  matched_by: domain
+  url: https://www.siemens.com/en-us/products/rapidminer/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Recursive
   status: unknown
   detail_url: https://earlybird.com/companies/recursive
@@ -800,7 +831,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: remberg
-  matched_by: name-slug
+  matched_by: domain
+  url: https://remberg.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Riiico
   status: unknown
   detail_url: https://earlybird.com/companies/riiico
@@ -829,6 +862,7 @@ companies:
   is_api_provider: false
   slug: scoreloop
   matched_by: name-slug
+  x-url-candidate: https://scoreloop.ai
 - name: Sennder
   sector: logistics
   status: active
@@ -837,7 +871,9 @@ companies:
   slug: sennder
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sennder.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Service Partner One
   status: unknown
   detail_url: https://earlybird.com/companies/service-partner-one-gmbh
@@ -863,7 +899,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: shapeshift
-  matched_by: name-slug
+  matched_by: domain
+  url: https://shapeshift.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Sikoia
   status: unknown
   detail_url: https://earlybird.com/companies/sikoia
@@ -882,6 +920,7 @@ companies:
   is_api_provider: false
   slug: simr-s
   matched_by: name-slug
+  x-url-candidate: https://simrs.com
 - name: Simscale
   status: unknown
   detail_url: https://earlybird.com/companies/simscale
@@ -920,16 +959,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: smava
-  matched_by: name-slug
-- name: Snyk
-  sector: developer-tools
-  status: active
-  detail_url: https://earlybird.com/companies/snyk-limited
-  source: https://earlybird.com/companies
-  slug: snyk
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.smava.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Socialbakers
   sector: marketing
   status: acquired
@@ -967,7 +999,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: terralayr
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.trlyr.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: The Interaction Company Of California
   status: unknown
   detail_url: https://earlybird.com/companies/the-interaction-company-of-california
@@ -976,8 +1010,8 @@ companies:
   is_api_provider: false
   url: https://interaction.co
   x-url-source: earlybird company pages (sitemap)
-  x-name-collision: the-interaction-company-of-california
   suggested_slug: interaction-co
+  x-name-collision: the-interaction-company-of-california
 - name: Thingsthinking
   status: unknown
   detail_url: https://earlybird.com/companies/thingsthinking
@@ -1023,7 +1057,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: ubitricity
-  matched_by: name-slug
+  matched_by: domain
+  url: https://ubitricity.com/en
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Uipath
   sector: automation
   status: ipo
@@ -1043,7 +1079,9 @@ companies:
   slug: upvest
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://upvest.co/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Urbia
   status: unknown
   detail_url: https://earlybird.com/companies/urbia-com
@@ -1051,7 +1089,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: urbia
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.urbia.de/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Videdressing
   status: unknown
   detail_url: https://earlybird.com/companies/videdressing
@@ -1079,7 +1119,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: workist
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.workist.com
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Xayn
   status: unknown
   detail_url: https://earlybird.com/companies/xayn-ag
@@ -1088,6 +1130,7 @@ companies:
   is_api_provider: false
   slug: xayn
   matched_by: name-slug
+  x-url-candidate: https://xayn.ai
 - name: usercentrics
   status: unknown
   detail_url: https://usercentrics.com/consent-management-platform-powered-by-usercentrics/?utm_source=banner_uc&utm_medium=referral&utm_content=v3
@@ -1095,4 +1138,6 @@ companies:
   slug: usercentrics
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://usercentrics.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
