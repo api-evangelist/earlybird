@@ -2,13 +2,6 @@ generated: '2026-10-18'
 method: derived
 source_vc: earlybird
 leads:
-- name: Cartodb
-  url: ''
-  suggested_slug: cartodb
-  sector: developer-tools
-  source_vc: earlybird
-  source: https://earlybird.com/companies
-  stub_created: false
 - name: Freeverse
   url: https://www.freeverse.io/
   suggested_slug: freeverse-io
@@ -19,13 +12,6 @@ leads:
 - name: Hakuna
   url: https://www.hellohakuna.com
   suggested_slug: hellohakuna-com
-  sector: ''
-  source_vc: earlybird
-  source: https://earlybird.com/companies
-  stub_created: false
-- name: M 0
-  url: ''
-  suggested_slug: m-0
   sector: ''
   source_vc: earlybird
   source: https://earlybird.com/companies

@@ -3,9 +3,9 @@ method: searched
 source: https://earlybird.com/companies
 summary:
   portfolio_total: 117
-  in_network: 111
-  api_providers: 24
-  missing: 6
+  in_network: 113
+  api_providers: 26
+  missing: 4
   stubs_created: 0
 companies:
 - name: Deepcode
@@ -177,9 +177,12 @@ companies:
   status: active
   detail_url: https://earlybird.com/companies/cartodb-inc
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: cartodb
+  in_network: true
+  is_api_provider: true
+  url: https://carto.com/
+  x-url-source: web search 2026-10-18
+  slug: carto
+  matched_by: domain
 - name: Ceartas
   status: unknown
   detail_url: https://earlybird.com/companies/ceartas-dmca-ltd
@@ -558,9 +561,12 @@ companies:
   status: unknown
   detail_url: https://earlybird.com/companies/m-0
   source: https://earlybird.com/companies
-  in_network: false
-  is_api_provider: false
-  suggested_slug: m-0
+  in_network: true
+  is_api_provider: true
+  url: https://www.m0.org/
+  x-url-source: web search 2026-10-18
+  slug: m0
+  matched_by: domain
 - name: Marvel Fusion
   sector: deep-tech
   status: active
