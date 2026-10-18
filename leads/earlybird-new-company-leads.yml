@@ -9,9 +9,16 @@ leads:
   source_vc: earlybird
   source: https://earlybird.com/companies
   stub_created: false
-- name: Hive Mq
-  url: ''
-  suggested_slug: hive-mq
+- name: Freeverse
+  url: https://www.freeverse.io/
+  suggested_slug: freeverse-io
+  sector: ''
+  source_vc: earlybird
+  source: https://earlybird.com/companies
+  stub_created: false
+- name: Hakuna
+  url: https://www.hellohakuna.com
+  suggested_slug: hellohakuna-com
   sector: ''
   source_vc: earlybird
   source: https://earlybird.com/companies
@@ -24,15 +31,15 @@ leads:
   source: https://earlybird.com/companies
   stub_created: false
 - name: Socialbakers
-  url: ''
+  url: http://www.socialbakers.com/
   suggested_slug: socialbakers
   sector: marketing
   source_vc: earlybird
   source: https://earlybird.com/companies
   stub_created: false
-- name: Spaitial Ai
-  url: ''
-  suggested_slug: spaitial-ai
+- name: The Interaction Company Of California
+  url: https://interaction.co
+  suggested_slug: interaction-co
   sector: ''
   source_vc: earlybird
   source: https://earlybird.com/companies
